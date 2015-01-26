@@ -65,7 +65,14 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="game.css" />
+    <Content Include="game.js" />
     <Content Include="Global.asax" />
+    <Content Include="index.html" />
+    <Content Include="script\preloadjs-0.6.0.min.js" />
+    <Content Include="script\easeljs-0.8.0.min.js" />
+    <Content Include="script\soundjs-0.6.0.min.js" />
+    <Content Include="script\tweenjs-0.6.0.min.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
